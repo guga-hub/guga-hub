@@ -24,13 +24,13 @@
   <a href = "mailto:lima.universitario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
   <a href="https://www.linkedin.com/in/gustavo-rodrigues-7b2a66191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guga-hub/guga-hub/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-    
-  👾  Olá! Me Chamo Gustavo Rodrigues! 
-
+  
+ <i><b> 👾 Olá! Me chamo Gustavo Rodrigues! </b></i>
+  
   🌍  Atualmente estou interessado em conhecer o mundo da programação em geral, seja Front-end, Back-end, ou mesmo mobile. 
 
   👨‍🎓 Estou em um curso ativo de HTML, porém, meu próximo curso será sobre Python. 
@@ -38,7 +38,6 @@
   💞️ Eu espero de alguma forma ajudar as pessoas... Que eu possa facilitar a vida delas e tornar o seu dia a dia mais feliz com a praticidade e simplicidade da tecnologia!
 
   🧑🏽 Eu sou estudante de Engenharia de Software com capacidade de aprendizado rápido e eficiente! Sou esforçado e um dia me tornarei um grande desenvolvedor! 
-
 
 Eu espero que você seja feliz vendo o que eu faço! 
        
