@@ -13,7 +13,7 @@
   <img align="center" alt="Guga-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guga-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guga-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="60px" width="100px" alt="Guga-hub" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e4701625tcuvqrx528csnhpodf9h91jgbef4mt67xra&rid=giphy.gif&ct=g">
+  <img align="center" height="80px" width="120px" alt="Guga-hub" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e4701625tcuvqrx528csnhpodf9h91jgbef4mt67xra&rid=giphy.gif&ct=g">
 </div>
     
    
