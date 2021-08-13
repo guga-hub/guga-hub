@@ -33,9 +33,9 @@
   
  <i><b> 👾 Olá! Me chamo Gustavo Rodrigues! </b></i>
   
-  🌍  Atualmente estou interessado em conhecer o mundo da programação em geral, seja Front-end, Back-end, ou mesmo mobile. 
+  🌍  Atualmente estou interessado em conhecer o mundo da programação em geral, seja Front-end, Back-end. Quem sabe vejamos o surgimento de um programador Full-Stack?... 
 
-  👨‍🎓 Estou em um curso ativo de HTML, porém, meu próximo curso será sobre Python. 
+  👨‍🎓 Estou em um curso ativo de HTML e Javascript. 
 
   💞️ Eu espero de alguma forma ajudar as pessoas... Que eu possa facilitar a vida delas e tornar o seu dia a dia mais feliz com a praticidade e simplicidade da tecnologia!
 
