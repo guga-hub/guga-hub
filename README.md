@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/guga-hub">
   <img height="160px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guga-hub&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160px" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-hub&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160px" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-hub&layout=compact&langs_count=6&theme=onedark"/>
 </div>
    
    ##
