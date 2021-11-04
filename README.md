@@ -35,11 +35,12 @@
   
   🌍  Atualmente estou interessado em conhecer o mundo da programação em geral, seja Front-end, Back-end. Quem sabe vejamos o surgimento de um programador Full-Stack?... 
 
-  👨‍🎓 Estou em um curso ativo de HTML e Javascript. 
+  👨‍🎓 Atualmente tenho uma boa noção em HTML, CSS e Javascript. 
+     Também estou para começar um curso para python.  
 
   💞️ Eu espero de alguma forma ajudar as pessoas... Que eu possa facilitar a vida delas e tornar o seu dia a dia mais feliz com a praticidade e simplicidade da tecnologia!
 
-  🧑🏽 Eu sou estudante de Engenharia de Software com capacidade de aprendizado rápido e eficiente! Sou esforçado e um dia me tornarei um grande desenvolvedor! 
+  🧑🏽 Eu sou estudante de Engenharia de Software com capacidade de aprendizagem rápida e eficiente! Sou esforçado e um dia me tornarei um grande desenvolvedor! 
 
 Eu espero que você seja feliz vendo o que eu faço! 
        
