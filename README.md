@@ -26,10 +26,6 @@
   ![Snake animation](https://github.com/guga-hub/guga-hub/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-  
-    ![Status](./profile-3d-contrib/profile-night-green.svg)
-  
-  ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
 
   
  <i><b> 👾 Olá! Me chamo Gustavo Rodrigues! </b></i>
