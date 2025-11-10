@@ -5,18 +5,6 @@
 💻 Especialista em soluções escaláveis e de alta performance com foco em <b>Java</b> e <b>arquitetura limpa</b>.
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/guga-hub">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guga-hub&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-hub&layout=compact&langs_count=6&theme=onedark" />
-  </a>
-</div>
-
----
-
 ### 🚀 Tecnologias e Especialidades
 <div align="center">
   
