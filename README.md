@@ -2,7 +2,7 @@
 
 <p align="center">
 🔴 <b>Desenvolvedor de Software - Back-End @ CI&T</b><br>
-💻 Especialista em soluções escaláveis e de alta performance com foco em <b>Java</b> e <b>arquitetura limpa</b>.
+💻 Especialista em soluções escaláveis e de alta performance com foco em <b>Java</b> + <b>Spring</b>.
 </p>
 
 ### 🚀 Tecnologias e Especialidades
