@@ -24,7 +24,7 @@
 |:-------:|:---------------|
 | **Linguagens** | Java |
 | **Frameworks** | Spring Boot, Drools (BRMS) |
-| **Boas Práticas** | SOLID, Clean Architecture, Design Patterns |
+| **Boas Práticas** | SOLID, Clean Architecture, Design Patterns, Clean Code |
 | **DevOps / CI-CD** | Docker, Kubernetes, GitHub Actions, Azure DevOps |
 | **Bancos de Dados** | MySQL, PostgreSQL, MongoDB, Redis |
 | **Mensagerias** | Kafka, RabbitMQ |
@@ -34,37 +34,15 @@
 
 ---
 
-### 🧩 Tecnologias que utilizo
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="AWS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Azure" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="SQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Kafka" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-
-<p align="center">
-  <img height="90" width="130" alt="Guga-gif" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guga-hub&color=green" alt="Visualizações de perfil" />
-</p>
-
----
-
 ### 💬 Sobre mim
-Sou apaixonado por **engenharia de software** e por criar soluções que realmente fazem diferença.  
-Busco sempre **entregar código limpo, testável e sustentável**, seguindo boas práticas e padrões modernos de desenvolvimento.
+Sou desenvolvedor **Back-End especializado em Java e Spring Boot**, com foco em **arquitetura de microsserviços** e soluções escaláveis em ambientes de alta disponibilidade.  
 
-Na **CI&T**, atuo no desenvolvimento de **APIs escaláveis**, integrações complexas e automações de processos empresariais, garantindo qualidade, segurança e performance.
+Tenho experiência na implementação de **APIs RESTful** com princípios de **Clean Architecture** e **Design Patterns**, estruturando camadas de domínio, aplicação e infraestrutura de forma desacoplada e testável.  
 
-🧠 Estou sempre aprimorando meus conhecimentos em **arquitetura de sistemas**, **microsserviços** e **boas práticas de design**.
+No meu dia a dia, aplico **Clean Code** e boas práticas de engenharia para garantir legibilidade, manutenibilidade e extensibilidade no código.  
+Utilizo **Spring Cloud**, **Docker** e **Kubernetes** para orquestração de serviços e automação de deploys em pipelines **CI/CD**, integrando soluções com mensagerias como **Kafka** e **RabbitMQ**.  
+
+Busco constantemente aprimorar meus conhecimentos em **arquitetura distribuída**, **resiliência de sistemas** e **integração contínua**, mantendo foco na entrega de valor e qualidade de software em ambientes corporativos complexos.
 
 ---
 
@@ -76,8 +54,6 @@ Na **CI&T**, atuo no desenvolvimento de **APIs escaláveis**, integrações comp
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/guga-hub/guga-hub/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guga-hub&color=green" alt="Visualizações de perfil" />
+</p>
