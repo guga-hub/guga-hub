@@ -1,3 +1,37 @@
+<h1 align="center">👋 Olá, eu sou o Gustavo Rodrigues!</h1>
+
+<p align="center">
+🔴 <b>Desenvolvedor de Software - Back-End @ CI&T</b><br>
+💻 Especialista em soluções escaláveis e de alta performance com foco em <b>Java</b> e <b>arquitetura limpa</b>.
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <a href="https://github.com/guga-hub">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guga-hub&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-hub&layout=compact&langs_count=6&theme=onedark" />
+  </a>
+</div>
+
+---
+
+### 🚀 Tecnologias e Especialidades
+<div align="center">
+  
+| 💡 Área | 🧰 Tecnologias |
+|:-------:|:---------------|
+| **Linguagens** | Java |
+| **Frameworks** | Spring Boot, Drools (BRMS) |
+| **Boas Práticas** | SOLID, Clean Architecture, Design Patterns, Clean Code |
+| **DevOps / CI-CD** | Docker, Kubernetes, GitHub Actions, Azure DevOps |
+| **Bancos de Dados** | MySQL, PostgreSQL, MongoDB, Redis |
+| **Mensagerias** | Kafka, RabbitMQ |
+| **Cloud** | AWS, Azure |
+
+</div>
+
 ---
 
 ### 🌐 Onde me encontrar
