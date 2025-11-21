@@ -11,7 +11,7 @@
 | 💡 Área | 🧰 Tecnologias |
 |:-------:|:---------------|
 | **Linguagens** | Java |
-| **Frameworks** | Spring Boot, Drools (BRMS) |
+| **Frameworks** | Spring |
 | **Boas Práticas** | SOLID, Clean Architecture, Design Patterns, Clean Code |
 | **DevOps / CI-CD** | Docker, Kubernetes, GitHub Actions, Azure DevOps |
 | **Bancos de Dados** | MySQL, PostgreSQL, MongoDB, Redis |
