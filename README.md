@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<div>
+<div align="bottom">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=guga-hub&color=green" alt="Visualizações de perfil" />
   </p>
