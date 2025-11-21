@@ -32,17 +32,6 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <a href="https://github.com/guga-hub">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guga-hub&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-hub&layout=compact&langs_count=6&theme=onedark&cache_seconds=1800&custom_title=Main%20Language%3A%20Java" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guga-hub&color=green" alt="Visualizações de perfil" />
 </p>
