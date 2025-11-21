@@ -31,9 +31,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<div align="bottom">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=guga-hub&color=green" alt="Visualizações de perfil" />
-  </p>
-</div>
